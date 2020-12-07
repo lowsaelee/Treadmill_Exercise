@@ -1,3 +1,5 @@
 # Treadmill_Exercise
 
-Data on miles and steps walked along with the weight loss/gain.
+Exploratory Data Analysis on miles, footsteps walked. Trend in weight loss over time.
+
+Used linear regression on data for predictive analysis.
